@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Projects\AndroidStudio\android-protobuf-example-master\app\src\main\assets"><file name="address_book.file" path="E:\Projects\AndroidStudio\android-protobuf-example-master\app\src\main\assets\address_book.file"/></source></dataSet><dataSet config="debug"><source path="E:\Projects\AndroidStudio\android-protobuf-example-master\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Projects\\AndroidStudio\\android-protobuf-example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "E:\\Projects\\AndroidStudio\\android-protobuf-example-master\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "E:\\Projects\\AndroidStudio\\android-protobuf-example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\phone_number.xml",
+        "source": "E:\\Projects\\AndroidStudio\\android-protobuf-example-master\\app\\src\\main\\res\\layout\\phone_number.xml"
+    },
+    {
+        "merged": "E:\\Projects\\AndroidStudio\\android-protobuf-example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\person.xml",
+        "source": "E:\\Projects\\AndroidStudio\\android-protobuf-example-master\\app\\src\\main\\res\\layout\\person.xml"
+    }
+]

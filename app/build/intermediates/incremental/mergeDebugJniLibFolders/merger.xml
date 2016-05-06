@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Projects\AndroidStudio\android-protobuf-example-master\app\libs"><file name="protobuf-java-format-1.2.jar" path="E:\Projects\AndroidStudio\android-protobuf-example-master\app\libs\protobuf-java-format-1.2.jar"/></source></dataSet><dataSet config="debug"><source path="E:\Projects\AndroidStudio\android-protobuf-example-master\app\src\debug\jniLibs"/></dataSet></merger>
