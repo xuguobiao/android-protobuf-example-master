@@ -47,7 +47,7 @@ public class TestActivity extends Activity implements View.OnClickListener {
             personBuilder.setName("xuguobiao");
 
             Person.PhoneNumber.Builder phoneBuilder = Person.PhoneNumber.newBuilder();
-            phoneBuilder.setNumber("15915758809");
+            phoneBuilder.setNumber("13800138000");
             phoneBuilder.setType(Person.PhoneType.MOBILE);
 
             personBuilder.addPhone(phoneBuilder.build());
